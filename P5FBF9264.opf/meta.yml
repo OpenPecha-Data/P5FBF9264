@@ -1,0 +1,31 @@
+id: P5FBF9264
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6107
+  instance_id: http://purl.bdrc.io/resource/IE1KG6107
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཁམས་ཕྱོགས་བག་སྟོན་ཤིས་ཚིག་མེ་ལོང་།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - kang qu hun li zhu ci xiao ji
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    986a18b1a1d84988bc58cc55493c8f04:
+      title: པོད ༡་ཁམས་ཕྱོགས་བག་སྟོན་ཤིས་ཚིག་མེ་ལོང་།
+      volume_number: 1
+      base_file: UT1KG6107_I1KG8451_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBBA3A85E24158E69
+      image_group: I1KG8451
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG6107
+  - http://purl.bdrc.io/resource/MW1KG6107
+  ocr_software: Namsel
+created_at: '2021-12-22T10:54:15.327237'
+last_modified_at: '2021-12-22T10:54:15.327243'
